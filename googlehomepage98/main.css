@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+img {
+  width: 351px;
+  height: 113px;
+}
+
+.center {
+  text-align: center;
+  align-items: center;
+}
+
+.orta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tsmall {
+  font-size: small;
+}
+
+.tdbg {
+  background-color: #eeeeee;
+}
+
+.bgcolor {
+  background-color: #70ccc2;
+}
